@@ -1,4 +1,4 @@
-# urna-eletronica
-Simulação urna-eletrônica
+# Urna eletrônica
+### Simulação de urna eletrônica de votação
 
-Fazendo uso de design pattern.
+#### _Fazendo uso de design pattern_
